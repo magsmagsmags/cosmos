@@ -1,0 +1,91 @@
+/* style sheet for index, portolio, and contact html pages */
+
+/* THIS CODE DOES NOT WORK
+HOW TO CHANGE NAV ELEMENT COLOR? */
+.nav-item {
+  color: #ffffff;
+}
+
+
+/* it worked, but this is a very sloppy way of accomplishing space on the card element
+NEED TO ASK FOR ASSISTANCE
+HOW TO CLASS TAG THE CARD */ 
+/* ~~~~ no longer being used ~~~~~*/
+.test {
+  color: #ffffff;
+  font-size: 40px;
+}
+
+/* About pg card image */
+.card-img {
+  margin: 10px;
+
+}
+
+.card-title {
+  background-color: #b79ddf; /*worked to make card title background minty */
+  color: rgb(82, 80, 80)fff /* does not work to make text white*/
+}
+
+.container {
+  margin: 30px;
+  padding: 20px;
+
+}
+
+
+/* portfolio  */
+.imgContainer {
+  position: relative;
+  display: inline-block;
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+}
+
+/* portfolio element names */
+.textName {
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 5px;
+  left: 10px;
+  width: 100%;
+  background-color: #b79ddf;
+  color: #ffffff;
+  opacity: 0.8;
+}
+
+/*  */
+footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  color: #ffffff;
+  height: 50px;
+  background-color:#9f7dd3;
+  padding: 15px;
+  border-top: 8px solid rgb(64, 63, 66);
+  border-color: rgb(64, 63, 66);
+  text-align: center;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    /* The body's bg color will be white */
+    body {
+      background-color: rgb(255, 255, 255);
+    }
+
+/*WHAT TO PUT IN HERE TO MAKE THIS WORK*/
+@media screen and (max-width: 788px) {
+    /*contact page form*/
+    .form-group {
+
+
+    }
+  }
+
+}
+

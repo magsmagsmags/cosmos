@@ -70,6 +70,16 @@ footer {
   text-align: center;
 }
 
+.contact {
+height: 100%;
+width: 100%;
+}
+
+.about {
+  height: 100%;
+  width: 100%;
+  }
+
 
 
 @media screen and (max-width: 768px) {
@@ -79,11 +89,17 @@ footer {
     }
 
 /*WHAT TO PUT IN HERE TO MAKE THIS WORK*/
-@media screen and (max-width: 788px) {
+@media screen and (max-width: 480px) {
     /*contact page form*/
-    .form-group {
+    .contact {
+      margin: 0;
+    }
+      /* WHAT TO PUT HERE?*/
 
+    .about {
+      margin: 0;
 
+    }
     }
   }
 

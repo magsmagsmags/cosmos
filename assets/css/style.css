@@ -6,15 +6,12 @@ HOW TO CHANGE NAV ELEMENT COLOR? */
   color: #ffffff;
 }
 
-
-/* it worked, but this is a very sloppy way of accomplishing space on the card element
-NEED TO ASK FOR ASSISTANCE
-HOW TO CLASS TAG THE CARD */ 
-/* ~~~~ no longer being used ~~~~~*/
-.test {
-  color: #ffffff;
-  font-size: 40px;
+/* nav bar justify right. DOES NOT WORK */
+.nav {
+  justify-content: right;
 }
+
+
 
 /* About pg card image */
 .card-img {
@@ -88,13 +85,12 @@ width: 100%;
       background-color: rgb(255, 255, 255);
     }
 
-/*WHAT TO PUT IN HERE TO MAKE THIS WORK*/
 @media screen and (max-width: 480px) {
     /*contact page form*/
     .contact {
       margin: 0;
     }
-      /* WHAT TO PUT HERE?*/
+    
 
     .about {
       margin: 0;

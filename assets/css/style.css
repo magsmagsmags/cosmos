@@ -1,16 +1,5 @@
 /* style sheet for index, portolio, and contact html pages */
 
-/* THIS CODE DOES NOT WORK
-HOW TO CHANGE NAV ELEMENT COLOR? */
-.nav-item {
-  color: #ffffff;
-}
-
-/* nav bar justify right. DOES NOT WORK */
-.nav {
-  justify-content: right;
-}
-
 
 /* About pg card image */
 .card-img {

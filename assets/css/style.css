@@ -77,6 +77,20 @@ width: 100%;
   width: 100%;
   }
 
+  hr { 
+    display: block;
+    marker-start: auto;
+    marker-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1px;
+    background-color:#666;
+    opacity: 0.5;
+}
 
 
  /* Extra small devices (portrait phones, less than 576px) */

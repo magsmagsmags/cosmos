@@ -68,7 +68,7 @@ body {
   line-height: 1.5;
   color: #444;
   text-align: left;
-  background-color: #fff;
+  background-image: url("../images/greek-vase.png");
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {

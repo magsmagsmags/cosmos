@@ -2,8 +2,8 @@
 
 Wonderful to meet you! 
 
-https://magsmagsmags.github.io/cosmos/portfolio.html
-https://github.com/magsmagsmags/cosmos
+* https://magsmagsmags.github.io/cosmos/portfolio.html
+* https://github.com/magsmagsmags/cosmos
 
 
 # Project Decription

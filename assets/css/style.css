@@ -80,6 +80,10 @@ width: 100%;
     opacity: 0.5;
 }
 
+.card-img-top {
+  padding: 5px;
+}
+
 
  /* Extra small devices (portrait phones, less than 576px) */
   @media (max-width: 575.98px) { ... }

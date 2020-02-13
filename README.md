@@ -1,21 +1,38 @@
-# Potfolio
+
+## MAGS KIEFER
+
+# Welcome!
 
 Wonderful to meet you! 
 
+My name is Mags Kiefer. I'm an experienced Project Manager, Product Manager, a former Chief of Staff for a SaaS company, and a Full Stack Developer. 
+
+Hope you can take a moment to explore my linkedin, github, and portfolio. Cheers! 
+
+* https://www.linkedin.com/in/sheakiefer/
 * https://magsmagsmags.github.io/cosmos/portfolio.html
 * https://github.com/magsmagsmags/cosmos
 
 
-# Project Decription
- A responsive web application built from scratch containing 3 pages that enable a user to learn about a technical professional, view the professional's portfolio, and contact the individual via email.
+# Content Highlighted
 
+Portfolio Webpage
+![Screenshot](portfolio_mockup.png)
 
-# User Story
-AS A a cosmic informational seeker I WANT to find information about Mercury retrograde SO THAT I can accurately understand the intricacies of my horoscope to better get in touch with the universe.
+Corporate Employee Tracker Application
+![Screenshot](tracker.gif)
 
+Random Password Generator Application
+![Screenshot](password_mockup.png)
 
-# Screenshot
-![Screenshot](portfolio_mockup.png)  
+Harry Potter Quiz Application
+![Screenshot](quiz_mockup.png)
+
+Day Planner Application
+![Screenshot](portfolio_mockup.png)
+
+Cosmic Astrologizer
+![Screenshot](cosmic_mockup.png)
  
 
 # Contribute
